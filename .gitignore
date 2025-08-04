@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+
+# Large Data Files - Do not commit your dataset!
+Data/
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# IDE / Editor folders
+.idea/
+.vscode/
+
+# IPython / Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
