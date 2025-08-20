@@ -1,7 +1,7 @@
 # Virtual Environment
 .venv/
 
-# Large Data Files - Do not commit your dataset!
+# Large Private Data Files 
 Data/
 
 # Python Caches
