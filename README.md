@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.11.9-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.20-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # The Generalisation of Fairness: A Study of Bias-Mitigated AI Models
 
 This repository contains the code and resources for my MSc Artificial Intelligence dissertation project at Birmingham City University. 
